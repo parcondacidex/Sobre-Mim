@@ -1,7 +1,7 @@
 # Sobre-Mim/ About me
 Tradutora, programadora por hobbie on GitHub
 
-Translator, programmer by hobbie on Github
+Translator, a programmer by hobbie on Github
 
 I appreciate 📚 ✍️ 🍔
 
