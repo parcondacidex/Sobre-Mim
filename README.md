@@ -1,6 +1,4 @@
 # Sobre-Mim/ About me
-Tradutora, programadora por hobbie on GitHub
+Tradutora, programadora por hobbie 
 
-Translator, a programmer by hobbie on Github
-
-
+Translator, programmer by hobbie and teacher
